@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\ape-bridge\helpers-customer-static\model.txt
+// Generated at: 2025-10-20T20:11:12.832Z
